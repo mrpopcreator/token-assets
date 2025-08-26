@@ -1,0 +1,17 @@
+{
+  "name": "Mr IceCream Token List",
+  "logoURI": "https://raw.githubusercontent.com/mrpopcreator/token-assets/main/logos/logo.png",
+  "keywords": ["cream", "memecoin", "abstract"],
+  "timestamp": "2025-08-26T00:00:00Z",
+  "tokens": [
+    {
+      "chainId": 2741,
+      "address": "0xf170980375b294c6173d69e47f0fa10a4e5cc01c",
+      "symbol": "CREAM",
+      "name": "Mr IceCream",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mrpopcreator/token-assets/main/logos/logo.png"
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}
